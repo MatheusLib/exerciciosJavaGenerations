@@ -1,4 +1,4 @@
-package JavaNaVeia;// Estou indicando o package onde esta a minha class
+package comecandojava;// Estou indicando o package onde esta a minha class
 
 import java.util.Scanner;
 
