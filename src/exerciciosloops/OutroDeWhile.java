@@ -58,7 +58,7 @@ public class OutroDeWhile {
 		media=media/total;
 		System.out.println("\nO número de pessoas desenvolvedoras Backend é "+back);
 		System.out.println("\nO número de Mulheres Cis e Trans desenvolvedoras Frontend é "+front);
-		System.out.println("\nO número de Homens Cis e Trans desenvolvedores Mobile maiores de 40 anos é "+front);
+		System.out.println("\nO número de Homens Cis e Trans desenvolvedores Mobile maiores de 40 anos é "+mob);
 		System.out.println("\nO número de Não Binários desenvolvedores FullStack menores de 30 anos é "+fs);
 		System.out.println("\nO número total de pessoas que responderam à pesquisa é "+total);
 		System.out.println("\nA média de idade das pessoas que responderam à pesquisa é "+media);
